@@ -4,7 +4,5 @@ public class Orc {
     public int b;
     public int c;
 
-    String BBB;
-
-
+    String BBBBB;
 }
