@@ -3,6 +3,9 @@ public class UU {
 
     public void addInt () {
         System.out.println("2++=2");
+        for (int i = 0; i<125; i++) {
+            System.out.println(this.i+i);
+        }
     }
 
     public static void main(String[] args) {
